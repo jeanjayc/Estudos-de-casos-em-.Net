@@ -1,0 +1,6 @@
+@InjecaoDP_HostAddress = http://localhost:5012
+
+GET {{InjecaoDP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
